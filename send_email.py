@@ -1,9 +1,9 @@
 import smtplib
 import ssl
-import dotenv
-# from dotenv import load_dotenv
+
+from dotenv import load_dotenv
 import os
-dotenv.load_dotenv()
+load_dotenv()
 
 
 def send_email(message):
