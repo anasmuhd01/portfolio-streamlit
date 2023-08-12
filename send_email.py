@@ -6,8 +6,8 @@ import ssl
 def send_email(message):
     host = "smtp.gmail.com"
     port = 465
-    username = st.secrets["mail_id"]
-    pasword = st.secrets["g_pas"]
+    username = st.secrets["MAIL_ID"]
+    pasword = st.secrets["G_PAS"]
 
 
     context = ssl.create_default_context()
