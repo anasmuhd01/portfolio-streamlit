@@ -31,8 +31,8 @@ with col3:
     for index, row in df[:10].iterrows():
         st.title(row["title"])
         st.write(row["description"])
-        st.image("images(1)/"+ row["image"])
-        st.write(f"[soure code]({row['url']})")
+        st.image("images(1)/" + row["image"])
+        st.write(f"[source code]({row['url']})")
 with col4:
     for index, row in df[10:].iterrows():
         st.title(row["title"])
