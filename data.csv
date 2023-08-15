@@ -1,6 +1,6 @@
 title;description;url;image
 Todo App;A distraction-free web app to help you focus on creating and completing tasks.;https://todowe.streamlit.app/;1.png
-Link Downloader;A website built entirely in Python to download with link.;link-downloader.streamlit.app;2.png
+Link Downloader;A website built entirely in Python to download with link.;link-downloader.streamlit.app/;2.png
 PDF Templates;A script that generates PDF templates of multiple pages given some predefined guidelines.;https://github.com/anasmuhd01/pdf-generator;3.png
 PDF Invoices;A script that reads invoice records from Excel files and automatically generates PDF invoices.;https://github.com/anasmuhd01/invoice-generator;4.png
 Positive News Site;A website that gets data from a news API and uses sentiment analysis to publish only positive news.;https://pythonhow.com;5.png
